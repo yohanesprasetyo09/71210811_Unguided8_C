@@ -1,0 +1,13 @@
+Ember B adalah ember yang akan penuh karena air hujan
+air mengalir dari atap bocor menuju kedalam rumah
+air akan langsung masuk ke dalam loteng rumah yang memiliki saluran air
+air menuju ke saluran pertama(kanan atas)lalu ke saluran kedua(kiri atas) 
+saluran air yang menuju ember A tertutup
+maka ember A tidak terisi
+saluran air yang menuju ember A penuh,
+otomatis air akan bertambah dan menuju ke saluran kanan lagi 
+turun ke bawah ke saluran kanan bawah yang menuju ke ember C dan D
+tetapi saluran tersebut juga tertutup
+maka jika saluran air sudah memenuhi saluran air tersebut
+akan ke saluran kiri bawah yang akan menuju ember B
+air akan menuju ke ember B
